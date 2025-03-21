@@ -5,7 +5,7 @@ public class Ejercicio3 {
         Scanner input = new Scanner(System.in);
         System.out.println("ingrese un numero");
         int numero = input.nextInt();
-        if (numero >= 10) {
+        if (numero >= 100) {
             System.out.println("numero no valido");
         } if (numero <= 0 ) {
             System.out.println("numero no valido");
